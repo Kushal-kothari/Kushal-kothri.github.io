@@ -1,4 +1,5 @@
 body {
+    text-align: center;
     padding-left: 27%;
     padding-right: 23%;
     background-color: #fefefe;
@@ -16,6 +17,7 @@ body {
 
 @media only screen and (max-width: 500px) {
     body {
+        text-align: center;
         padding-left: 5%;
         padding-right: 5%;
         padding-top: 10px;
@@ -58,6 +60,7 @@ body {
     font-size: 1.2em;
 }
 .header h1 {
+    text-align: center;
     font-size: 40px;
     margin-top: 0px;
     margin-bottom: 0px;
